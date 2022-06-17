@@ -1,6 +1,6 @@
 # Z-Ball
  
- Z-Ball is a 2D classical 8-bit influenced game where the goal is to maneuver a ping-pong-like ball across space and avoid obstacles for as long as you can. It was built upon a 2D game engine personally developed by me.
+ Z-Ball is a 2D classical 8-bit influenced game where the goal is to maneuver a ping-pong-like ball across space and avoid obstacles for as long as you can. It was built upon a 2D game engine personally developed by me. All code, assets including art and sound were created by me.
 
 Link to gameplay footage:
 
